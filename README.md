@@ -1,5 +1,5 @@
 # Blender Tutorial
-This tutorial repository is for working with meshes and point clouds in Blender.
+A tutorial to work with object meshes and point clouds in Blender.
 
 **1. How to import meshes and point clouds in blender?**
 
